@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поиск авиабилетов</string>
+
+    <string-array name="cities">
+        <item>Москва (MOW)</item>
+        <item>Санкт-Петербург (LED)</item>
+        <item>Сочи (AER)</item>
+        <item>Екатеринбург (SVX)</item>
+        <item>Казань (KZN)</item>
+        <item>Новосибирск (OVB)</item>
+        <item>Минск (MSQ)</item>
+        <item>Калининград (KGD)</item>
+        <item>Владивосток (VVO)</item>
+        <item>Краснодар (KRR)</item>
+    </string-array>
+</resources>
